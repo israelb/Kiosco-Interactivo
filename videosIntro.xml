@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<!-- #1 -->
+		<cluster>
+			<nombre>Moda</nombre>			
+			<video>videos/intro1.flv</video>
+			<industria>true</industria>
+			<key>moda</key>
+		</cluster>
+	<!-- end #1 -->
+	
+	<!-- #2 -->
+		<cluster>
+			<nombre>Gourmet</nombre>		
+			<video>videos/intro2.flv</video>
+			<industria>true</industria>
+			<key>gourmet</key>
+		</cluster>	
+	<!-- end #2 -->
+	
+	<!-- #3 -->
+		<cluster>
+			<nombre>Alta tecnología</nombre>
+			<video>videos/intro3.flv</video>
+			<industria>true</industria>
+			<key>alta_tecnologia</key>
+		</cluster>
+	<!-- end #3 -->
+	
+	<!-- #4 -->
+		<cluster>
+			<nombre>Infraestructura</nombre>		
+			<video>videos/intro4.flv</video>
+			<industria>true</industria>
+			<key>infraestructura</key>
+		</cluster>
+	<!-- end #4 -->
+	
+	<!-- #5 -->
+		<cluster>
+			<nombre>Logística</nombre>			
+			<video>videos/intro5.flv</video>
+			<industria>true</industria>
+			<key>logistica</key>
+		</cluster>
+	<!-- end #5 -->
+	
+</clusters>
+
+
+<!-- **********************  AYUDA  ********************** --->
+<!-- INSERTAR VIDEOS EN EL INTRO
+
+---- Si queremos poner un video de una industria tenemos que configurar la etiqueta xml <industria>true</industria>
+---- después dentro de la etiqueta <key>[clave]</key> el nombre de la clave del video correspondiente de esa indusria.
+
+---- Si queremos poner un video de una cámara tenemos que configurar la etiqueta xml <industria>false</industria>
+---- después dentro de la etiqueta <key>[clave]</key> el nombre de la clave del video correspondiente de esa cámara.
+
+---- [CLAVES] de los videos
+
+---- valor key para INDUSTRIAS ------- 
+
+key: moda
+key: gourmet
+key: casa
+key: alta_tecnologia
+key: infraestructura
+key: logistica
+
+
+---- valor key para CAMARAS ------- 
+
+key: calzado
+key: joyas 
+key: textil 
+key: vestido 
+key: alimentos
+key: restaurantes
+key: tequilera
+key: cortiduria
+key: madera
+key: mueble
+key: hardware
+key: maquiladora
+key: textil_tecnologia
+key: construccion
+key: vivienda
+key: industrial
+key: autotransportes
+key: transporte
+key: aduanas
+key: artes
+key: hule
+
+
+---- CAMBIAR ORDEN DE LOS VIDEOS
+---- Para cambiar el orden de los videos solo es necesario mover el orden de la etiqueta <cluster></cluster> estarán en un orden ascendente, el #1 como el más importante y el #5 como el menos importante. No mueva el comentario, solo el contenido de la etiqueta cluster.
+
+[screen intro]
+_____________
+4  |  1  |  2
+5  |     |  3
+-------------
+
+-->		
