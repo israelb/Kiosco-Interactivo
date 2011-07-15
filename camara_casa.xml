@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<cluster>
+		<nombre>Cortiduria</nombre>		
+		<descripcion><font size="24"><b>Cámara Regional de la Industria de Curtiduría en Jalisco</b><br/>
+		Calzada Independencia Norte  No.2178 (esquina Uxmal) <br/> C.P. 44320<br/>	Guadalajara, Jal.<br/><br/>
+		3832.1098<br/>3126.7095 <br/>3658.1552<br/><br/></font><font size="17"></font>
+		</descripcion>
+		<video>videos/casa/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Madera</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional de la Industria Maderera - Delegación Occidente</b><br/>
+		Santa Mónica No.834 (entre Arista y Jesús García) <br/> C.P. 44280<br/>	Guadalajara, Jal.<br/><br/>
+		3614.4376<br/>3614.2848<br/><br/></font><font size="17">camaramaderera@prodigy.net.mx<br/>www.canaimdo.com.mx</font>
+		</descripcion>
+		<video>videos/casa/video2.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Mueble Jalisco</nombre>		
+		<descripcion><font size="20"><b>Cámara de la Industria Mueblera del Estado de Jalisco</b><br/>
+		Av. Mariano Otero No.1313  <br/> C.P. 44540<br/>Guadalajara, Jal.<br/><br/>
+		3343.3400 Ext. 184<br/>3671.0150<br/><br/></font><font size="17">servicios@cimejal.com.mx<br/>www.cimejal.com.mx</font><br/><br/><br/><br/>	
+		</descripcion>
+   	<video>videos/casa/video3.flv</video>
+	</cluster>
+	
+	<cluster>
+		<nombre>Mueble Ocotlán</nombre>		
+		<descripcion>
+		<font size="20"><b>Asociación de Fabricantes de Muebles de Ocotlán</b><br/>
+		Av. Buenos Aires No.2000 Int. A <br/> C.P. 44630<br/>Ocotlán, Jal.<br/><br/>
+		3(392) 925.9800<br/><br/></font><font size="17">presidente.afamo@gmail.com<br/>www.afamo.com.mx</font>
+		</descripcion>
+		<video>videos/casa/video4.flv</video>
+	</cluster>
+	
+	
+</clusters>

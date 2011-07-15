@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<cluster>
+		<nombre>Artes gráficas</nombre>		
+			<descripcion><font size="24"><b>Cámara Nacional de la Industria de Artes Gráficas - Delegación Jalisco</b><br/>
+			Av. La Paz 3er. Piso (esq. Av. Unión)<br/> C.P. 44140<br/>	Guadalajara, Jal.<br/><br/>
+			3343.3810<br/>3343.3823<br/><br/></font><font size="17">canagraf@canagrafjalisco.org.mx<br/>www.canagrafjalisco.org.mx</font>
+			</descripcion>
+		<video>videos/sin/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Hule</nombre>		
+			<descripcion><font size="24"><b>Cámara Regional de la Industria del Hule y Látex del Estado de Jalisco</b><br/>
+			Agua Marina No.2768(por Guadalupe Gallo) <br/> C.P. 45235<br/>Zapopan, Jal.<br/><br/>
+			3684.4265<br/>3684.3868<br/>3684.7460<br/><br/></font><font size="17"></font>
+			</descripcion>
+		<video>videos/sin/video2.flv</video>
+	</cluster>
+	
+	
+</clusters>

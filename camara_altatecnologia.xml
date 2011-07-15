@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<cluster>
+		<nombre>Hardware/Software</nombre>		
+			<descripcion><font size="19"><b>Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y Tecnologías de lnformación - Delegación Regional de Occidente</b><br/>
+			Centro del Software, Av. López Mateos Sur 2077-Z31 2077-Z31 (Plaza del Ángel) <br/> C.P. 44150<br/>	Guadalajara, Jal.<br/><br/>
+			3030.7200<br/>3030.7205<br/><br/></font><font size="17">director@canietigdl.com.mx<br/>www.canietigdl.org</font><br/><br/><br/><br/>
+			
+			<font size="19"><b>Cadena Productiva de la Electrónica, A.C. </b><br/>
+			Av. Niños Héroes No.1555 5º Piso, Despacho 502<br/> C.P. 44190<br/>Ocotlán, Jal.<br/><br/>
+			3793.2140<br/>3793.2147<br/><br/></font><font size="17">www.cadelec.com.mx</font>
+			</descripcion>
+		<video>videos/alta/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Maquiladora</nombre>		
+		<descripcion><font size="24"><b>Asociación de Industrias Maquiladoras y Manufactureras de Occidente, A.C.</b><br/>
+		Buenos Aires No.2264 <br/> C.P. 44630<br/>	Guadalajara, Jal.<br/><br/>
+		3121.9993<br/><br/></font><font size="17">direccion@aimmo.org.mx<br/>www.aimmo.org.mx</font>
+		</descripcion>
+		<video>videos/alta/video2.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Textil</nombre>		
+			<descripcion><font size="24"><b>Cámara de la Industria Alimenticia de Jalisco</b><br/>
+			Av. Washington No.1920 (entre Colonias y Bruselas)<br/> C.P. 44190<br/>	Guadalajara, Jal.<br/><br/>
+			3810.4177<br/>3810.4178<br/>3810.4179<br/><br/></font><font size="17">presidencia@ciaj.org.mx<br/>www.ciaj.org.mx</font>
+			</descripcion>
+		<video>videos/alta/video3.flv</video>
+	</cluster>
+
+	
+</clusters>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<cluster>
+		<nombre>Construcción</nombre>		
+		<descripcion><font size="24"><b>Cámara Mexicana de la Industria de la Construcción - Delegación Jalisco</b><br/>
+		Lerdo de Tejada No.2151 (esquina General San Martín) <br/> C.P. 44150<br/>	Guadalajara, Jal.<br/><br/>
+		3615.0352<br/>3615.7212<br/>3616.8791<br/><br/></font><font size="17">presidencia@cmicjalisco.org<br/>www.cmicjalisco.org</font>
+		</descripcion>
+		<video>videos/infraestructura/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Vivienda</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Jalisco</b><br/>
+		Francisco de Quevedo No. 235 <br/> C.P. 44130<br/>	Guadalajara, Jal.<br/><br/>
+		3616.0068<br/>3616.5167<br/><br/></font><font size="17">jalisco@canadevi.org.mx<br/>www.canadevijalisco.org.mx</font>
+		</descripcion>
+		<video>videos/infraestructura/video2.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Industrial</nombre>		
+		<descripcion><font size="24"><b>Asociación de Industriales de El Salto, A.C.</b><br/>
+		Calle Islote No.2431 <br/> C.P. 44538<br/>Guadalajara, Jal.<br/><br/>
+		3697.1363<br/>3697.1314<br/><br/></font><font size="17">www.aisac.com.mx</font>
+		</descripcion>
+		<video>videos/infraestructura/video3.flv</video>
+	</cluster>
+
+	
+</clusters>

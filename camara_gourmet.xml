@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+
+	<cluster>
+		<nombre>Alimentos</nombre>		
+		<descripcion><font size="24"><b>Cámara de la Industria Alimenticia de Jalisco</b><br/>
+		Av. Washington No.1920 (entre Colonias y Bruselas)<br/> C.P. 44190<br/>	Guadalajara, Jal.<br/><br/>
+		3810.4177<br/>3810.4178<br/>3810.4179<br/><br/></font><font size="17">presidencia@ciaj.org.mx<br/>www.ciaj.org.mx</font>
+		</descripcion>
+		<video>videos/gourmet/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Restaurantes</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados - Delegación Jalisco</b><br/>
+   	Av. España No.1400 (entre Federalismo y Tolsá)  <br/> C.P. 44190<br/>	Guadalajara, Jal.<br/><br/>
+		1368.4700<br/><br/></font><font size="17">presidencia@caniracjalisco.com<br/>www.caniracjal.com</font>
+		</descripcion>
+		<video>videos/gourmet/video2.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Tequilera</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional de la Industria Tequilera</b><br/>
+		Calzada Lázaro Cárdenas No.3289 5º Piso  (entre Ermita y Av. Tepeyac)<br/> C.P. 45000<br/>	Guadalajara, Jal.<br/><br/>
+		3121.5021<br/>3121.5066<br/>3121.5113<br/><br/></font><font size="17">relainstcicej@gmail.com<br/>www.cicej.com.mx</font>
+		</descripcion>
+		<video>videos/gourmet/video3.flv</video>
+	</cluster>
+
+	
+</clusters>

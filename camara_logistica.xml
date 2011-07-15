@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	
+	<cluster>
+		<nombre>Autotransportes</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional del Autotransporte de Carga - Delegación Jalisco</b><br/>
+		Av. Mariano Otero No. 3431 Int. 516, 5º piso<br/> C.P. 44550<br/>	Guadalajara, Jal.<br/><br/>
+		3629.6769<br/>3629.6772<br/>3629.6704<br/><br/></font><font size="17">canacar@prodigy.net.mx<br/>www.canacar.com.mx</font>
+		</descripcion>
+   <video>videos/logistica/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Transporte privado</nombre>		
+		<descripcion><font size="24"><b>Asociación Nacional de Transporte Privado</b><br/>
+		José Ma. Rico No.230<br/> C.P. 03100<br/>	México, DF.<br/><br/>
+		(55) 5524.3314<br/>(55) 5534.4056<br/><br/></font><font size="17">www.antp.org.mx</font>
+		</descripcion>
+		<video>videos/logistica/video2.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Aduanas</nombre>		
+		<descripcion><font size="24"><b>Asociación de Agentes Aduanales de Guadalajara, A.C.</b><br/>
+		Av. de los Agentes Aduanales SN. (Aeropuerto Internacional “Miguel Hidalgo”)<br/> C.P. 45659<br/>Tlajomulco de Zuñiga, Jal.<br/><br/>
+		3688.6007<br/>3688.5031<br/>3688.6470<br/><br/></font><font size="17">vceja@aaag.org.mx<br/>www.aaag.org.mx</font>
+		</descripcion>
+		<video>videos/logistica/video3.flv</video>
+	</cluster>
+	
+	
+</clusters>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	<cluster>
+		<nombre>Moda</nombre>		
+		<descripcion></descripcion>
+		<video>videos/clusters/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Gourmet</nombre>		
+		<descripcion></descripcion>
+		<video>videos/clusters/video2.flv</video>
+	</cluster>	
+	<cluster>
+		<nombre>Casa/Oficina</nombre>		
+		<descripcion></descripcion>
+		<video>videos/clusters/video3.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Alta tecnología</nombre>		
+		<descripcion></descripcion>
+		<video>videos/clusters/video4.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Infraestructura</nombre>		
+		<descripcion></descripcion>
+   	<video>videos/clusters/video5.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Logística</nombre>		
+		<descripcion></descripcion>
+		<video>videos/clusters/video6.flv</video>
+	</cluster>
+</clusters>

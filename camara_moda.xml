@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clusters>
+	<cluster>
+		<nombre>Calzado</nombre>		
+		<descripcion><font size="24"><b>Cámara de la Industria del Calzado del Estado de Jalisco</b><br/>
+		Prolongación Avenida Alcalde No. 1918 (entre Esteban Vaca Calderón y Sebastián Allende)<br/> C.P. 44270<br/>	Guadalajara, Jal.<br/><br/>
+		1202.1818<br/>3824.6615<br/><br/></font><font size="17">relainstcicej@gmail.com<br/>www.cicej.com.mx</font>
+		</descripcion>
+		<video>videos/moda/video1.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Joyas</nombre>		
+		<descripcion><font size="24"><b>Cámara Regional de la Industria de Joyería y Platería del Estado de Jalisco</b><br/>
+		Av. Topacio No.2486 (entre Diamante y Turquesa)<br/>C.P. 44540<br/>	Guadalajara, Jal.<br/><br/>
+		3121.0299<br/><br/></font><font size="17">presidencia@camaradejoyeria.com.mx<br/>www.camaradejoyeria.com.mx</font>
+		</descripcion>
+		<video>videos/moda/video2.flv</video>
+	</cluster>	
+	<cluster>
+		<nombre>Textil</nombre>		
+		<descripcion><font size="24"><b>Cámara Textil de Occidente</b><br/>
+		Mexicalzingo No. 2208  (entre av. Unión y Simón Bolivar)<br/> C.P. 44150<br/>	Guadalajara, Jal.<br/><br/>
+		3615.1703<br/>3615.6656<br/>3616.0641<br/><br/></font><font size="17">ctexo@infosel.net.mx<br/>www.camaratextiloccidente.com</font>
+		</descripcion>
+		<video>videos/moda/video3.flv</video>
+	</cluster>
+	<cluster>
+		<nombre>Vestido</nombre>		
+		<descripcion><font size="24"><b>Cámara Nacional de la Industria del Vestido - Delegación Jalisco</b><br/>
+		Av. Vallarta No. 3233 Zona H (Locales 3 y 4 de Plaza Galería Exhimoda)<br/> C.P. 44110<br/>	Guadalajara, Jal.<br/><br/>
+		3120.1022<br/>3120.1023<br/>3563.6012<br/><br/></font><font size="17">canaiveg@prodigy.net.mx<br/>www.canaive.com</font>
+		</descripcion>
+		<video>videos/moda/video4.flv</video>
+	</cluster>
+
+</clusters>
