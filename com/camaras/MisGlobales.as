@@ -1,0 +1,1 @@
+﻿package com.camaras{	public class MisGlobales {		public static var vars:Object = [];		public function MisGlobales() {			// constructor code		}	}}
